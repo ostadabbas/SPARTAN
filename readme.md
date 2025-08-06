@@ -66,7 +66,7 @@ To enable novel SLAM-based evaluation, edit ```parse_results_slam.py``` by point
 
 ```bibtex
 @inproceedings{bai2025clip,
-    author = {Bai, Xiangyu and Anish Sreeramagiri, Sai and Siddhartha Vivek Dhir Rangoju, Sai and Galoaa, Bishoy and Ostadabbas, Sarah},
+    author = {Bai, Xiangyu and Anish Sreeramagiri, Sai and Siddhartha Vivek Dhir Rangoju, Sai and Galoaa, Bishoy and Mortin, Eric and Ostadabbas, Sarah},
     title = {SPARTAN: Spatiotemporal Pose-Aware Retrieval for Text-guided Autonomous Navigation},
     booktitle = {British Machine Vision Conference (BMVC)},
     year = {2025}
