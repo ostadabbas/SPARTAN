@@ -1,6 +1,6 @@
 # SPARTAN: Spatiotemporal Pose-Aware Retrieval for Text-guided Autonomous Navigation
 
-Implementation of our camera pose-text joint video retreival model. The paper is accepted at BMVC 2025. This repository is based on the existing work Long-CLIP[⇱](https://github.com/beichenzbc/Long-CLIP) on GitHub.
+Implementation of our camera pose-text joint video retreival model. The paper is accepted at BMVC 2025. This repository is based on the existing work Long-CLIP[⇱](https://github.com/beichenzbc/Long-CLIP) on GitHub. Please also visit our project page for a quick demo: [⇱](https://zzzura-secure.duckdns.org/poseclip).
 
 ## Dataset
 We present DrivingScenePTX, a comprehensive driving video dataset that includes both frame-wise camera poses and rich textual scene descriptions.
